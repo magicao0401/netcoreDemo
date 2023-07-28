@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\magic\\.dotnet\\store\\|arch|\\|tfm|",
+      "D:\\magic\\.nuget\\packages"
+    ]
+  }
+}
