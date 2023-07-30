@@ -47,7 +47,6 @@ namespace netcore3._1
             }
 
             //PostProceed(httpContext) ;
-
             await _next(httpContext) ;
         }
     }
